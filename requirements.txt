@@ -1,1 +1,9 @@
 streamlit
+langchain 
+langchain-openai 
+langchain-community 
+duckduckgo-search 
+google-api-python-client 
+chromadb 
+pypdf2 
+python-dotenv
